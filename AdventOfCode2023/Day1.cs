@@ -21,7 +21,7 @@
 
         public override void RunPart2()
         {
-            Console.WriteLine($"Day 2 (Part 2): {_elves.Take(3).Sum()}");
+            Console.WriteLine($"Day 1 (Part 2): {_elves.Take(3).Sum()}");
         }
     }
 }

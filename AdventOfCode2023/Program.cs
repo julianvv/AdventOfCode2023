@@ -2,3 +2,12 @@
 
 // Run day 1
 new Day1().RunDay();
+
+// Run day 2
+new Day2().RunDay();
+
+// Run day 3
+new Day3().RunDay();
+
+// Run day 4
+new Day4().RunDay();
