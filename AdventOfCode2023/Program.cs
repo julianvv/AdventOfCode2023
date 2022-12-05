@@ -11,3 +11,6 @@ new Day3().RunDay();
 
 // Run day 4
 new Day4().RunDay();
+
+// Run day 5
+new Day5().RunDay();
